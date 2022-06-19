@@ -12,6 +12,7 @@ namespace Snake_Copy
 {
     public partial class Form1 : Form
     {
+        //comentario
         Game Game;
         public Form1()
         {
