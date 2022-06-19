@@ -1,0 +1,11 @@
+C:\Users\Victo\Desktop\Eduardo\Snake_Copy\Snake_Copy\bin\Debug\Snake_Copy.exe.config
+C:\Users\Victo\Desktop\Eduardo\Snake_Copy\Snake_Copy\bin\Debug\Snake_Copy.exe
+C:\Users\Victo\Desktop\Eduardo\Snake_Copy\Snake_Copy\bin\Debug\Snake_Copy.pdb
+C:\Users\Victo\Desktop\Eduardo\Snake_Copy\Snake_Copy\obj\Debug\Snake_Copy.csproj.AssemblyReference.cache
+C:\Users\Victo\Desktop\Eduardo\Snake_Copy\Snake_Copy\obj\Debug\Snake_Copy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victo\Desktop\Eduardo\Snake_Copy\Snake_Copy\obj\Debug\Snake_Copy.Form1.resources
+C:\Users\Victo\Desktop\Eduardo\Snake_Copy\Snake_Copy\obj\Debug\Snake_Copy.Properties.Resources.resources
+C:\Users\Victo\Desktop\Eduardo\Snake_Copy\Snake_Copy\obj\Debug\Snake_Copy.csproj.GenerateResource.cache
+C:\Users\Victo\Desktop\Eduardo\Snake_Copy\Snake_Copy\obj\Debug\Snake_Copy.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Eduardo\Snake_Copy\Snake_Copy\obj\Debug\Snake_Copy.exe
+C:\Users\Victo\Desktop\Eduardo\Snake_Copy\Snake_Copy\obj\Debug\Snake_Copy.pdb
